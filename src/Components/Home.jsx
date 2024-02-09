@@ -45,7 +45,7 @@ export default function Home() {
           headers: {
             "content-type": "application/json",
             "X-RapidAPI-Key":
-              "952f027cc0msh9bebae77dd5eb60p1ed3e0jsn64ed6d3b3497",
+              "7d8c0c6578mshc57f8ec57219efcp1900ecjsn3d6131e20f67",
             "X-RapidAPI-Host": "social-download-all-in-one.p.rapidapi.com",
           },
         }
